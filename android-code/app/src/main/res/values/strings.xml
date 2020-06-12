@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Icon Classifier</string>
+    <string name="about">This is a sample app that showcases TFLite Model Maker, metadata,
+        Codegen and ML Model binding.</string>
+</resources>
